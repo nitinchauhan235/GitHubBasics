@@ -18,6 +18,7 @@ public class BasicsJava {
         System.out.println("change by user a");
         System.out.println("Again A changed");
         System.out.println("Architect A changed the code");
+        System.out.println("Architect B changed the code");
 	}
 	
 	public static void evenodd(int a)
